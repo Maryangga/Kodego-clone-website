@@ -1,0 +1,15 @@
+.header {
+    &__nav {
+        float: right;
+        
+    & li {
+    
+        display: inline-block;
+        margin-right: 1.5em;
+    }
+}
+    
+    &__users-link {
+        float: right;
+    }
+}
