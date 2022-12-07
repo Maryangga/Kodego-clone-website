@@ -1,14 +1,6 @@
 @import "normalize.css";
-@import "./modules/_container";
-
-body {
-    
-}
-
-a, a:active {
-    text-decoration: none;
-     color: inherit;
-}
+@import "./base/_global";
+@import './modules/_container';
 
 .nav {
     float: right;
